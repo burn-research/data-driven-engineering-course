@@ -28,18 +28,18 @@ What to do in practice.
 
 * Think ahead of a problem you would like to tackle. To get some ideas, have a look at some public domain databases at the following links;
 
-[the wind power]{https://www.thewindpower.net/index.php}
-[open power system data]{https://open-power-system-data.org}
-[air pollution]{https://www.eea.europa.eu/themes/air/explore-air-pollution-data}
-[airfoiltools]{http://airfoiltools.com/search/index?m%5Bgrp%5D=naca4d&m%5Bsort%5D=1}
-[eurostat waste]{https://ec.europa.eu/eurostat/web/waste/data/database}
-[nist aerodynamic database]{https://www.nist.gov/el/materials-and-structural-systems-division-73100/nist-aerodynamic-database}
-[wind tunnel dataset]{https://mi-pub.cen.uni-hamburg.de/index.php?id=433}
-[turbulence]{http://turbulence.pha.jhu.edu}
-[combustion1]{https://tnfworkshop.org}
-[combustion2]{https://www.adelaide.edu.au/cet/isfworkshop/}
-[miscellaneous1]{https://blog.superannotate.com/public-datasets-for-machine-learning/?utm_term=&utm_campaign=Annotation_Search_New_Segmented&utm_source=adwords&utm_medium=ppc&hsa_acc=7527629942&hsa_cam=14073003037&hsa_grp=128022413461&hsa_ad=569775348928&hsa_src=g&hsa_tgt=dsa-392284169515&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw_tWRBhAwEiwALxFPoQvcjuxfOZiVg8rQC-EnFQz7SeIwnqD_-KIMfDUxkvDw1LL46uIMxBoC5zgQAvD_BwE}
-[miscellaneous2]{https://www.kaggle.com/datasets}
+[the wind power](https://www.thewindpower.net/index.php)
+[open power system data](https://open-power-system-data.org)
+[air pollution](https://www.eea.europa.eu/themes/air/explore-air-pollution-data)
+[airfoiltools](http://airfoiltools.com/search/index?m%5Bgrp%5D=naca4d&m%5Bsort%5D=1)
+[eurostat waste](https://ec.europa.eu/eurostat/web/waste/data/database)
+[nist aerodynamic database](https://www.nist.gov/el/materials-and-structural-systems-division-73100/nist-aerodynamic-database)
+[wind tunnel dataset](https://mi-pub.cen.uni-hamburg.de/index.php?id=433)
+[turbulence](http://turbulence.pha.jhu.edu)
+[combustion1](https://tnfworkshop.org)
+[combustion2](https://www.adelaide.edu.au/cet/isfworkshop/)
+[miscellaneous1](https://blog.superannotate.com/public-datasets-for-machine-learning/?utm_term=&utm_campaign=Annotation_Search_New_Segmented&utm_source=adwords&utm_medium=ppc&hsa_acc=7527629942&hsa_cam=14073003037&hsa_grp=128022413461&hsa_ad=569775348928&hsa_src=g&hsa_tgt=dsa-392284169515&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw_tWRBhAwEiwALxFPoQvcjuxfOZiVg8rQC-EnFQz7SeIwnqD_-KIMfDUxkvDw1LL46uIMxBoC5zgQAvD_BwE)
+[miscellaneous2](https://www.kaggle.com/datasets)
 
 
 The databases above are sometimes specific (air pollution, power systems, flows, flames, wind power, …) sometimes extremely broad. In particular, Superannotate and Kaggle include various databases from various engineering fields, tackling societal challenges.
@@ -49,7 +49,7 @@ The databases above are sometimes specific (air pollution, power systems, flows,
 
 * You should have a case study defined one week after the break by Sunday, April 24th. The project's title shall be mentioned on the google sheet with the group composition.
 
-[google doc]{https://docs.google.com/spreadsheets/d/1les4X_3NVrY7DEkPClPfQKUUp91RAgRNJx0bHpRaEbs/edit?usp=drivesdk}
+[google doc](https://docs.google.com/spreadsheets/d/1les4X_3NVrY7DEkPClPfQKUUp91RAgRNJx0bHpRaEbs/edit?usp=drivesdk)
 
 * The case study could have very specific or rather broad objectives. You are expected to tie your analysis to one or more concepts introduced in the theory classes, e.g., discover patterns in the data, reduce dimensionality, identify the controlling features, and develop a predictive model for the specific variable(s) of interest.
 
